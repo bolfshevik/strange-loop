@@ -8,7 +8,7 @@ body {
 }
 
 #content {
-    width: 70%; /* You can adjust the width as needed */
+    width: 72%; /* You can adjust the width as needed */
     max-width: 800px;
     margin: 0 auto; /* This centers the div */
 }
