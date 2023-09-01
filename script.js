@@ -73,6 +73,8 @@ function nextScene() {
             document.getElementById('tarot').src = penanceImage;
         }
         document.getElementById("nextbutton").innerText = "Try again?";
+        currentScene = -1;
+        return
     }
 
     if (document.getElementById("nextbutton").innerText == "Try again?") {
@@ -103,6 +105,5 @@ function nextScene() {
 
         // Finally, set the current scene state based on dice roll
         sceneType = isNextSceneEscape ? 'escape' : 'penance';
-        }
     }
 }
