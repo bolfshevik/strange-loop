@@ -27,7 +27,7 @@ const scenePairs = [
         𝑃𝑎𝑡𝑖𝑒𝑛𝑡 ℎ𝑖𝑠𝑡𝑜𝑟𝑖𝑒𝑠, Dr. Holloway informs you, as you sign your name into his record-book, ℎ𝑜𝑙𝑑 𝑑𝑒𝑡𝑎𝑖𝑙𝑒𝑑 𝑎𝑐𝑐𝑜𝑢𝑛𝑡𝑠 𝑜𝑓 𝑝𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑖𝑛𝑗𝑢𝑟𝑖𝑒𝑠, 𝑡𝑟𝑒𝑎𝑡𝑚𝑒𝑛𝑡𝑠 𝑔𝑖𝑣𝑒𝑛, 𝑎𝑛𝑑 𝑜𝑢𝑡𝑐𝑜𝑚𝑒𝑠 𝑤𝑖𝑡𝑛𝑒𝑠𝑠𝑒𝑑. 𝐸𝑎𝑐ℎ 𝑜𝑛𝑒 𝑡𝑒𝑙𝑙𝑠 𝑎 𝑠𝑡𝑜𝑟𝑦 𝑜𝑓 𝑣𝑖𝑐𝑡𝑜𝑟𝑦 𝑜𝑟 𝑙𝑜𝑠𝑠, 𝑡𝑟𝑖𝑢𝑚𝑝ℎ 𝑜𝑟 𝑑𝑒𝑓𝑒𝑎𝑡. 
         
         One file will fester in the back of your mind.'Patient’s exact words: ‘There was a door in my eye. I opened it.’ Psychiatric evaluation deemed not only prudent, but critical...'”`,
-        image: "The Seven-Skulled Sun.jpg"
+        image: "Thorn-Mistress.jpg"
     },
     {
         escape: `“Four of Serpilions. And reversed! This is not your night. No, no, all is not lost. The servitors can bring bittersweet memories or awkward interactions in crowded train-cars, nightmares or small-talk, existential crises or coerced agreements. It all depends. Now, where did I put my aconite blossoms? And that damned bowl of sanctified rain-water? 
@@ -101,7 +101,7 @@ const scenePairs = [
          
         𝐻𝑒𝑟𝑒, the detective murmurs, before he disappears into the fog. 𝑇𝑖𝑚𝑒 𝑏𝑒ℎ𝑎𝑣𝑒𝑠 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡𝑙𝑦 𝑎𝑟𝑜𝑢𝑛𝑑 𝑦𝑜𝑢. 𝑀𝑒, 𝑡𝑜𝑜. 𝑇ℎ𝑖𝑠 𝑚𝑖𝑔ℎ𝑡 ℎ𝑒𝑙𝑝.
         It is a cracked pocket-watch with hands that tick neither correctly (in the direction of the future) nor backwards (in the direction of the past). Someone has painted the face to resemble a white tiger’s toothy visage, and the glass is warm to the touch.”`,
-        image: "Entrance.jpg"
+        image: "Prince Mediateth.jpg"
     }, 
     {
         escape: `“The serpilions are notoriously unforgiving, but they permit their inmates, occasionally, to wander in the forest of fantastiques, where each fruit swells with untold secrets, where the lichways writhe in endless loops, where the wind frictions the soul. In a dream, you will trample the Underfoot, and the rustle of the leaves will ripple outwards through time, the haunting echoes of the incidental creations of a glowing volve, a life erratically rewound, a scream unsilenced. 𝐼𝑔𝑛𝑒𝑎𝑙-𝑎𝑚𝑏𝑒𝑟 𝑤𝑟𝑒𝑠𝑡𝑙𝑒𝑠 𝑤𝑖𝑡ℎ 𝑣𝑒𝑙𝑣𝑒𝑡-𝑚𝑒𝑠𝑜𝑛𝑜𝑥𝑖𝑎. Here, there is neither dusk nor dawn, only epoches of twilight temporized and indesinent night. Glass-crabs mourn like banshees under the moon’s crumbling ravelin, and the stars pulsate with a ghastly radiance. Your eyes will leak dawn, but it will not sting. Here, you may glimpse her youth through roseate curtains, donning masks of rouge and despair, humming lullabies from forgotten days. Strangers pass, leaving traces of pity and disdain in their wake. Unrelenting, she pursues restless desires: sunrise, love, redemption, sanctuary. A new twilight. The cycle endures—lingers—𝑡ℎ𝑒 𝑠𝑜𝑓𝑡 𝑑𝑟𝑖𝑧𝑧𝑙𝑒 𝑡ℎ𝑎𝑡 𝑓𝑎𝑙𝑙𝑠 𝑤ℎ𝑒𝑛 𝑡ℎ𝑒 𝑚𝑜𝑜𝑛 ℎ𝑖𝑑𝑒𝑠 𝑖𝑡𝑠 𝑓𝑎𝑐𝑒. 𝑇ℎ𝑒 𝑠𝑢𝑡ℎ𝑒𝑟𝑠 𝑜𝑓 𝑎𝑙𝑙𝑒𝑦𝑤𝑎𝑦𝑠. 𝑇ℎ𝑒 𝑠ℎ𝑎𝑑𝑜𝑤𝑠 𝑡ℎ𝑎𝑡 𝑡𝑜𝑛𝑔𝑢𝑒 ℎ𝑒𝑟 𝑒𝑦𝑒-𝑙𝑎𝑐𝑘 𝑖𝑛 𝑙𝑎𝑚𝑝𝑙𝑖𝑔ℎ𝑡. 𝑇ℎ𝑒 𝑠𝑜𝑓𝑡 𝑑𝑟𝑖𝑧𝑧𝑙𝑒 𝑤ℎ𝑒𝑟𝑒 𝑡ℎ𝑒 𝑚𝑜𝑜𝑛 ℎ𝑖𝑑𝑒𝑠. 𝑇ℎ𝑒 𝑠𝑢𝑡𝑢𝑟𝑒𝑠 𝑜𝑓 𝑎𝑙𝑙𝑒𝑦𝑤𝑎𝑦𝑠. 𝑆ℎ𝑎𝑑𝑜𝑤𝑠, 𝑑𝑎𝑛𝑐𝑖𝑛𝑔 𝑖𝑛 𝑙𝑎𝑚𝑝𝑙𝑖𝑔ℎ𝑡.
@@ -111,7 +111,7 @@ const scenePairs = [
         Overhead lights cast long, eerie shadows across a shifting sea of students, hunched, scribbling, over their notes. When you leave, blinking your way back into the world, your mind cannot stop replaying the slide of an exposed retina. The swift adjustments from light to dark, so much like a caged bird, enigmatic and incoherent and fluttering… 
         
         Now, a narrow street—a butcher-shop—the room above it. You will unlock the water-stained door, and your apartment will emerge, cluttered and empty, disheveled with dark. There will be a half-melted candle on the vargueno in the corner of the room, as there always is. You will light it with your last match, fished out of a crushed emerald matchbox, courtesy of your local pub. How often do you dream of fire? Of candlelight? There are shadows on the wall that you will beg yourself not to recognize. One reaches for the other, as if welcoming a romantic embrace. One raises its fist.”`,
-        image: "Entrance.jpg"
+        image: "Asemia.jpg"
     }, 
   ];
   
@@ -124,8 +124,8 @@ let sceneType = 'intro';
 // Define the ending scenes
 const escapeEnding = "When the reading is done, you can no longer tell what is real and what is fantasy. Ludmilla is real, you believe. The silver pendant around her neck, slyly tucked between layers of chiffon and silk, is real. The sleeting of rain against the walls of the tent. Like moth-wings, Ludmilla chuckles. Or at least I’ve always thought so. She returns the detective’s watch; she refuses your meager offer of payment. Go. Now, she urges, pushing you gently back towards the world. Before she catches on. And she will catch on. Here, or elsewhere. We will face the repercussions, when she does. Through the flap of the tent, the sky is endless and dark, empty of stars. White mist has wrapped the rest of the circus in frosty silence. But there is possibility in darkness—in thunderstorms—as well as in fear. Outside, the detective waits for you in the shadow of an oak tree, his eyes as bright and clear as brass. He raises a hand. You kneel and offer him your neck."; 
 const penanceEnding = "After you leave Ludmilla’s, you are uncertain what is real and what is fiction. You look back to reassure yourself that her tent is still behind you. It is. Of course it is. Still, you walk home with an invisible noose around your neck. Still, when you look down at your hands, your nails are caked with flesh and blood.  That night, you catapult awake from one nightmare into another. Three cloaked figures loom eagerly over your body. A leviathan tangle of eyes and spectral tendrils coils mindlessly in the air. The monotonous pounding of drums. Natalia, ethereal and terrifying in flowing robes of obsidian and ivory; beige, misshapen doll-creatures skittering around and up and inside of her skirts. She binds you to Euclidean’s nightmare-vision of an altar with silver chains. The cloaked figures do not help, or even offer to help. You try to point this out to them, but every word distorts into unintelligible croaking, and you observe in a detached sort of manner that your mouth tastes like blood. Natalia spreads her arms to the sky. The tentacles shiver in delight or impatience. o Morgana, the inevitable grinding, the river, the tiger, vanquished as spells, vanquished as the many-limbed sun, they sought your visions suppressed, you shall not be suppressed. The sky unfurls with a world-shattering roar. When it comes, the pain is dark and smooth, like a polished jewel.";
-const escapeImage = "Ending-Escape.jpg"
-const penanceImage = "Ending-Escape.jpg"
+const escapeImage = "New Escape Ending.jpg"
+const penanceImage = "Penance Ending.jpg"
 
 function initializeGame() {
     escapeCount = 0;
