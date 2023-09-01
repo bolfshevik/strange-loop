@@ -1,0 +1,26 @@
+body {
+    background-color: #FDF5E6; /* Yellowish background */
+    font-family: 'Times New Roman', Times, serif; /* Classic font */
+    /* text-align: center; */
+    /* Additional styling to mimic old texts */
+}
+
+#content {
+    width: 90%; /* You can adjust the width as needed */
+    max-width: 800px;
+    margin: 0 auto; /* This centers the div */
+}
+
+button {
+    background-color: #3e0606; /* Green background */
+    border: none; /* No border */
+    color: rgb(255, 255, 255); /* White text */
+    padding: 15px 32px; /* Padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* No underline */
+    display: inline-block; /* Inline block */
+    font-size: 16px; /* Text size */
+    margin: 4px 2px; /* Margin */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-family: 'Times New Roman', Times, serif; /* Classic font */
+}
