@@ -1,6 +1,8 @@
 body {
     background-color: #FDF5E6; /* Yellowish background */
     font-family: 'Times New Roman', Times, serif; /* Classic font */
+    font-size: 18px;
+    line-height: 200%;
     /* text-align: center; */
     /* Additional styling to mimic old texts */
 }
@@ -9,6 +11,13 @@ body {
     width: 90%; /* You can adjust the width as needed */
     max-width: 800px;
     margin: 0 auto; /* This centers the div */
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 button {
