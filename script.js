@@ -27,7 +27,7 @@ const scenePairs = [
         𝑃𝑎𝑡𝑖𝑒𝑛𝑡 ℎ𝑖𝑠𝑡𝑜𝑟𝑖𝑒𝑠, Dr. Holloway informs you, as you sign your name into his record-book, ℎ𝑜𝑙𝑑 𝑑𝑒𝑡𝑎𝑖𝑙𝑒𝑑 𝑎𝑐𝑐𝑜𝑢𝑛𝑡𝑠 𝑜𝑓 𝑝𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑖𝑛𝑗𝑢𝑟𝑖𝑒𝑠, 𝑡𝑟𝑒𝑎𝑡𝑚𝑒𝑛𝑡𝑠 𝑔𝑖𝑣𝑒𝑛, 𝑎𝑛𝑑 𝑜𝑢𝑡𝑐𝑜𝑚𝑒𝑠 𝑤𝑖𝑡𝑛𝑒𝑠𝑠𝑒𝑑. 𝐸𝑎𝑐ℎ 𝑜𝑛𝑒 𝑡𝑒𝑙𝑙𝑠 𝑎 𝑠𝑡𝑜𝑟𝑦 𝑜𝑓 𝑣𝑖𝑐𝑡𝑜𝑟𝑦 𝑜𝑟 𝑙𝑜𝑠𝑠, 𝑡𝑟𝑖𝑢𝑚𝑝ℎ 𝑜𝑟 𝑑𝑒𝑓𝑒𝑎𝑡. 
         
         One file will fester in the back of your mind.'Patient’s exact words: ‘There was a door in my eye. I opened it.’ Psychiatric evaluation deemed not only prudent, but critical...'”`,
-        image: "House of the Moon (1).png"
+        image: "New House of the Moon Image.png"
     },
     {
         escape: `“Four of Serpilions. And reversed! This is not your night. No, no, all is not lost. The servitors can bring bittersweet memories or awkward interactions in crowded train-cars, nightmares or small-talk, existential crises or coerced agreements. It all depends. Now, where did I put my aconite blossoms? And that damned bowl of sanctified rain-water? 
