@@ -2,7 +2,7 @@ const introductionScene = `Rain lashes against the worn canvas of the tent. A so
 
 “My atheling!” Ludmilla crows, delighted. She is lounging behind a table strewn with gleaming trinkets and ornate Spira cards, draped in graceful scarves of deep crimson and indigo. Her bracelets chime, softly, like church-bells, whenever she moves. Her eyes are amber-bright. “You’ve returned to me. I thought you might not, this round.” 
 
-She takes a business-like drag off her cigarette. 
+She takes a quick, business-like drag off her cigarette. 
 
 “Very well. You still have a ways to go, first. And we should really perform the ritual beforehand. But I’m a soft touch for a lost cause.” 
 
